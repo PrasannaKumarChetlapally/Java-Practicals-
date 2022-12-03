@@ -40,19 +40,6 @@ public class Hello_World {
 				 char letter = '\u0041';
 				 System.out.println(letter);
 
-				
-				
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 		
 	}
 
